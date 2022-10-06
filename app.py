@@ -7,8 +7,8 @@ with tab1:
    st.subheader('Kuhl Engineered Krew')
    st.write("https://www.kuhl.com/kuhl/mens/short-sleeve/kuhl-engineered-krew/")
    st.write("Size: Medium, Style: Short Sleeve")
-   st.image(["https://www.kuhl.com/media/versions/pdp/7361_aktiv_engineered_krew_cloud_gray_front_pdp_photo.jpg","https://www.kuhl.com/media/versions/pdp/7361_aktiv_engineered_krew_pirate_blue_front_pdp_photo.jpg"],
-   caption=["Cloud Grey","Pirate Blue"])
+   st.image(["https://www.kuhl.com/media/versions/pdp/7361_aktiv_engineered_krew_cloud_gray_front_pdp_photo.jpg","https://www.kuhl.com/media/versions/pdp/7361_kuhl-engineered-krew_rusted-sun_front_pdp_photo.jpg"],
+   caption=["Cloud Grey","Rusted Sun"])
 
    st.subheader('Kuhl PIXELATR')
    st.write("https://www.kuhl.com/kuhl/mens/long-sleeve/pixelatr-ls/")
