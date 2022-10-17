@@ -42,6 +42,12 @@ with tab1:
    st.image('https://cdn.shopify.com/s/files/1/2341/3995/products/grey_cotton_sweatpants_TCM1471_1634_1.jpg?v=1656986734&width=400',
    caption='Silver Cloud Grey Heather')
 
+   st.header('Other')
+   st.subheader('YETI Cooler Bag')
+   st.write('Color: Navy, Size: M30')
+   st.write('https://www.yeti.com/coolers/soft-coolers/totes/18060130090.html')
+   st.subheader('Luggage')
+
 with tab2:
    st.header("Hannah")
    st.image("https://static.streamlit.io/examples/dog.jpg", width=200)
