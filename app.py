@@ -46,6 +46,8 @@ with tab1:
    st.subheader('YETI Cooler Bag')
    st.write('Color: Navy, Size: M30')
    st.write('https://www.yeti.com/coolers/soft-coolers/totes/18060130090.html')
+   st.image('https://yeti-web.imgix.net/7f4fbed3fb6079de/W-Hopper_M30_Navy_Front_Strap_1824_B.png?bg=0fff&auto=format&w=1920&h=1920',
+   caption='Navy')
    st.subheader('Luggage')
 
 with tab2:
